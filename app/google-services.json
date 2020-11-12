@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774241980914",
+    "firebase_url": "https://puzzletestv001.firebaseio.com",
+    "project_id": "puzzletestv001",
+    "storage_bucket": "puzzletestv001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774241980914:android:c6649470d08af1189b1b6b",
+        "android_client_info": {
+          "package_name": "com.example.puzzle_test_v001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774241980914-frcfohe8ttkeh3fpmlk6253vdkss5q2h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.puzzle_test_v001",
+            "certificate_hash": "be45d3e08f96f06cad52e593ccd11241270422c2"
+          }
+        },
+        {
+          "client_id": "774241980914-vaffl3c5gsqb2r0t85irbhnm7g0k23vn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QXhLIMYFlArWBXJgmNU5eCQbGWVmQVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774241980914-vaffl3c5gsqb2r0t85irbhnm7g0k23vn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

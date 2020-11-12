@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="shuffle_button_label">Remena</string>
+    <string name="take_photo_button_label">Fes una foto</string>
+    <string name="solve_button_label">Resolt</string>
+    <string name="jugar">Jugar</string>
+    <string name="puzzle">Puzzle</string>
+    <string name="puntuacions">Puntuacions</string>
+    <string name="autors">M08 UF2 - Guillem Pejó i Eloi Breu</string>
+
+    <string name="afterGameScore_label">Puntuació final</string>
+    <string name="afterGameScore_Congrats">Enhorabona!</string>
+    <string name="afterGameScore_finalScore">La teva puntuació és:</string>
+    <string name="afterGameScore_button_backToMainMenu">Menú principal</string>
+    <string name="permissionsContactsDialog">L\'aplicació no té permissos per accedir als contactes. Vols otorgar-li ara?</string>
+</resources>
